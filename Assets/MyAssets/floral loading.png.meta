@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: e71027bca5ba56240a82768659b3918b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3698778535555954150
+    second: floral loading_0
+  - first:
+      213: -1825111736439692479
+    second: floral loading_1
+  - first:
+      213: 1601607451603812396
+    second: floral loading_2
+  - first:
+      213: 1311099635536596425
+    second: floral loading_3
+  - first:
+      213: 2400792880718871876
+    second: floral loading_4
+  - first:
+      213: 1567502760187473577
+    second: floral loading_5
+  - first:
+      213: 1983900341256805415
+    second: floral loading_6
+  - first:
+      213: -8398653373264909752
+    second: floral loading_7
+  - first:
+      213: 3316930869468723994
+    second: floral loading_8
+  - first:
+      213: 7996475111480982050
+    second: floral loading_9
+  - first:
+      213: -5758744848599968520
+    second: floral loading_10
+  - first:
+      213: -5686954552722802552
+    second: floral loading_11
+  - first:
+      213: -3459913974546531838
+    second: floral loading_12
+  - first:
+      213: -720328924181956319
+    second: floral loading_13
+  - first:
+      213: -7573251293461017611
+    second: floral loading_14
+  - first:
+      213: -5652832549347718891
+    second: floral loading_15
+  - first:
+      213: 4948181641624889494
+    second: floral loading_16
+  - first:
+      213: 4693371559342312611
+    second: floral loading_17
+  - first:
+      213: -7352748873079811334
+    second: floral loading_18
+  - first:
+      213: -6773431368463462989
+    second: floral loading_19
+  - first:
+      213: -6061448861277330022
+    second: floral loading_20
+  - first:
+      213: 7663819565976215008
+    second: floral loading_21
+  - first:
+      213: 4710732403036006168
+    second: floral loading_22
+  - first:
+      213: -5333141117339028793
+    second: floral loading_23
+  - first:
+      213: -1863215333335590322
+    second: floral loading_24
+  - first:
+      213: 5768757446423572769
+    second: floral loading_25
+  - first:
+      213: -5135456389718508337
+    second: floral loading_26
+  - first:
+      213: -1415106638897883742
+    second: floral loading_27
+  - first:
+      213: -6363367145999310674
+    second: floral loading_28
+  - first:
+      213: -2598542564303776340
+    second: floral loading_29
+  - first:
+      213: 749750294454140726
+    second: floral loading_30
+  - first:
+      213: 357910709975552570
+    second: floral loading_31
+  - first:
+      213: 5935599643676251691
+    second: floral loading_32
+  - first:
+      213: 7072284626912964927
+    second: floral loading_33
+  - first:
+      213: 2027830603523984588
+    second: floral loading_34
+  - first:
+      213: -3572216173704398296
+    second: floral loading_35
+  - first:
+      213: -6868009883788544178
+    second: floral loading_36
+  - first:
+      213: 6271314346254493020
+    second: floral loading_37
+  - first:
+      213: 6584645036508410538
+    second: floral loading_38
+  - first:
+      213: 8045999619339750365
+    second: floral loading_39
+  - first:
+      213: 151132671116852122
+    second: floral loading_40
+  - first:
+      213: -1978132266215747640
+    second: floral loading_41
+  - first:
+      213: -9221939983848924479
+    second: floral loading_42
+  - first:
+      213: -371578545794468066
+    second: floral loading_43
+  - first:
+      213: 8260872128070328705
+    second: floral loading_44
+  - first:
+      213: 856818823936502483
+    second: floral loading_45
+  - first:
+      213: 7895700681157958020
+    second: floral loading_46
+  - first:
+      213: 1577651408329664827
+    second: floral loading_47
+  - first:
+      213: -6366262263933400789
+    second: floral loading_48
+  - first:
+      213: 665024007614144790
+    second: floral loading_49
+  - first:
+      213: 7852110289219821917
+    second: floral loading_50
+  - first:
+      213: -2721046575777679447
+    second: floral loading_51
+  - first:
+      213: 4585889055811892851
+    second: floral loading_52
+  - first:
+      213: -2293129971926957905
+    second: floral loading_53
+  - first:
+      213: -4111398399395833034
+    second: floral loading_54
+  - first:
+      213: 8003249031167361339
+    second: floral loading_55
+  - first:
+      213: 3059835321073116934
+    second: floral loading_56
+  - first:
+      213: 7392837682947975895
+    second: floral loading_57
+  - first:
+      213: -1277623744580373634
+    second: floral loading_58
+  - first:
+      213: -6853694464538259165
+    second: floral loading_59
+  - first:
+      213: 2862323816245246739
+    second: floral loading_60
+  - first:
+      213: -1365742090176854822
+    second: floral loading_61
+  - first:
+      213: -9197109621179692117
+    second: floral loading_62
+  - first:
+      213: 2581133808886485238
+    second: floral loading_63
+  - first:
+      213: 65997404963552048
+    second: floral loading_64
+  - first:
+      213: 5844729284875852875
+    second: floral loading_65
+  - first:
+      213: 7962859015158049051
+    second: floral loading_66
+  - first:
+      213: -1532616060893123177
+    second: floral loading_67
+  - first:
+      213: 1723603371658376178
+    second: floral loading_68
+  - first:
+      213: -3665095490626175487
+    second: floral loading_69
+  - first:
+      213: 3048595216529243553
+    second: floral loading_70
+  - first:
+      213: 4250259952825249785
+    second: floral loading_71
+  - first:
+      213: 3728051630132743489
+    second: floral loading_72
+  - first:
+      213: -8574488746453703080
+    second: floral loading_73
+  - first:
+      213: 5128169183144918424
+    second: floral loading_74
+  - first:
+      213: -1820543634435953395
+    second: floral loading_75
+  - first:
+      213: 2798841275018647623
+    second: floral loading_76
+  - first:
+      213: 4227389451633448016
+    second: floral loading_77
+  - first:
+      213: 4580799981623164497
+    second: floral loading_78
+  - first:
+      213: -7377853146769453894
+    second: floral loading_79
+  - first:
+      213: -8305353387974622957
+    second: floral loading_80
+  - first:
+      213: 7841107171195906338
+    second: floral loading_81
+  - first:
+      213: -7994247172206518890
+    second: floral loading_82
+  - first:
+      213: -4812677342247080139
+    second: floral loading_83
+  - first:
+      213: 5402534092305040904
+    second: floral loading_84
+  - first:
+      213: -4777384359629310258
+    second: floral loading_85
+  - first:
+      213: -986206985268295161
+    second: floral loading_86
+  - first:
+      213: 3834644962210903315
+    second: floral loading_87
+  - first:
+      213: -5674793512121571133
+    second: floral loading_88
+  - first:
+      213: 4819383123869367741
+    second: floral loading_89
+  - first:
+      213: 1868975923956967304
+    second: floral loading_90
+  - first:
+      213: -1990181172003315005
+    second: floral loading_91
+  - first:
+      213: -2887706987786284590
+    second: floral loading_92
+  - first:
+      213: 7314089160707181060
+    second: floral loading_93
+  - first:
+      213: 8526217114795044650
+    second: floral loading_94
+  - first:
+      213: 5146694508726126835
+    second: floral loading_95
+  - first:
+      213: -5752393148301475738
+    second: floral loading_96
+  - first:
+      213: -2875963924280727385
+    second: floral loading_97
+  - first:
+      213: -2252099841579332088
+    second: floral loading_98
+  - first:
+      213: -8047498125458151951
+    second: floral loading_99
+  - first:
+      213: 1069801348807555883
+    second: floral loading_100
+  - first:
+      213: -8212538168931890887
+    second: floral loading_101
+  - first:
+      213: -8297476878986283180
+    second: floral loading_102
+  - first:
+      213: -7598123715552323886
+    second: floral loading_103
+  - first:
+      213: -5867646443877149683
+    second: floral loading_104
+  - first:
+      213: 3217698531447653935
+    second: floral loading_105
+  - first:
+      213: -2989608953609635859
+    second: floral loading_106
+  - first:
+      213: 3282995526886257641
+    second: floral loading_107
+  - first:
+      213: -3190667945592708389
+    second: floral loading_108
+  - first:
+      213: 3102959054622168838
+    second: floral loading_109
+  - first:
+      213: 7189097121399926059
+    second: floral loading_110
+  - first:
+      213: 627565708649531695
+    second: floral loading_111
+  - first:
+      213: 6454322755244559184
+    second: floral loading_112
+  - first:
+      213: -5195657399351972692
+    second: floral loading_113
+  - first:
+      213: -8126252018174367460
+    second: floral loading_114
+  - first:
+      213: 1217084946658789734
+    second: floral loading_115
+  - first:
+      213: 3535633981333021198
+    second: floral loading_116
+  - first:
+      213: -2522931598528738755
+    second: floral loading_117
+  - first:
+      213: -8108066404691637596
+    second: floral loading_118
+  - first:
+      213: -6500343080988814062
+    second: floral loading_119
+  - first:
+      213: 2341427342067126111
+    second: floral loading_120
+  - first:
+      213: 2759842026365515531
+    second: floral loading_121
+  - first:
+      213: 3526615920604110359
+    second: floral loading_122
+  - first:
+      213: -7907776535465840533
+    second: floral loading_123
+  - first:
+      213: 2489035772846590437
+    second: floral loading_124
+  - first:
+      213: 7819146440860911897
+    second: floral loading_125
+  - first:
+      213: 8862897041023205126
+    second: floral loading_126
+  - first:
+      213: 4229663121190928057
+    second: floral loading_127
+  - first:
+      213: -6160545342608375421
+    second: floral loading_128
+  - first:
+      213: 2681066010872686852
+    second: floral loading_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floral loading_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 292
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a0955d48c4bacc0800000000000000
+      internalID: -3698778535555954150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 292
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c4e8ed8086ba41ac5d7a18f86ca03
+      internalID: -1825111736439692479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 292
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fa10e0f902a89488a58797b0dbcb5f
+      internalID: 1601607451603812396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 292
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88f31e14ba385045aac874e03ea9df8
+      internalID: 1311099635536596425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 292
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2290fa4f2736514d8166c6f8cad37f5
+      internalID: 2400792880718871876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 220
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2117788e34808d41bd8c2934008f849
+      internalID: 1567502760187473577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 220
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf5e8f04a5da845a9bd645848f4dc2
+      internalID: 1983900341256805415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 220
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107b365821c2a54380c7cf356423661
+      internalID: -8398653373264909752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 220
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7828343e700a100478ca372efa1a66ab
+      internalID: 3316930869468723994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 220
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f671873bccbf5547849ef1b27ab6642
+      internalID: 7996475111480982050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 148
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a9228d376236c42ba73a2d65c3a18c
+      internalID: -5758744848599968520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 148
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304976cf7a119340af73aea53d8fd1c
+      internalID: -5686954552722802552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 148
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9104130f8b03ae9418e7a097b79dc259
+      internalID: -3459913974546531838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 148
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498eb68b13219346b99e05171f03929
+      internalID: -720328924181956319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 148
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cec66de65f442e408393b28ac7811de
+      internalID: -7573251293461017611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7897d1347f8e302468ba0cde7f3d81ce
+      internalID: -5652832549347718891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321687de0d7e03343bc9db6da07b9d98
+      internalID: 4948181641624889494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 76
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9abb50bbb23da418d3680b69f959d0
+      internalID: 4693371559342312611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 76
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfd7cfc78249884d93c383c8b482536
+      internalID: -6773431368463462989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floral loading_20
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 76
+        width: 111
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef1dd597fc19e4ea4a7dbc7973ea3e
+      internalID: -6061448861277330022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb3067619ff8ed74d9ae8a3adb0cedcd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      floral loading_0: -3698778535555954150
+      floral loading_1: -1825111736439692479
+      floral loading_10: -5758744848599968520
+      floral loading_11: -5686954552722802552
+      floral loading_12: -3459913974546531838
+      floral loading_13: -720328924181956319
+      floral loading_14: -7573251293461017611
+      floral loading_15: -5652832549347718891
+      floral loading_16: 4948181641624889494
+      floral loading_17: 4693371559342312611
+      floral loading_18: -300755042
+      floral loading_19: -6773431368463462989
+      floral loading_2: 1601607451603812396
+      floral loading_20: -6061448861277330022
+      floral loading_3: 1311099635536596425
+      floral loading_4: 2400792880718871876
+      floral loading_5: 1567502760187473577
+      floral loading_6: 1983900341256805415
+      floral loading_7: -8398653373264909752
+      floral loading_8: 3316930869468723994
+      floral loading_9: 7996475111480982050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
