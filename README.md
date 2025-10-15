@@ -1,55 +1,61 @@
-# 🎮 Mini Survivor — 2D Action Shooter
+# 🎮 Last Wave — Top-Down Survivor Shooter
 
-> A small Survivor.io-like project built from scratch in Unity.  
-> Survive waves of enemies, collect XP, and upgrade your skills!
+> Inspired by ``Survivor.io`` and arcade bullet-heaven games, this Unity project captures the tension of endless waves.  
+> Survive, level up, and build powerful synergies to push through the final wave!
 
 ---
 
 ## 🧩 Features
 
-- Procedural enemy waves with increasing difficulty  
-- Upgrade system using **ScriptableObjects**  
-- UI: main menu, pause, game-over screen  
-- Stable 60 FPS, optimized with the Unity Profiler  
+- Endless waves with escalating enemy modifiers  
+- Auto-aim and auto-fire weapons, just focus on positioning  
+- Randomized upgrade pool built on **ScriptableObjects**  
+- Temporary boosts: health orbs, regeneration zones, and damage bursts  
+- Full menu flow: splash, hub, loading, pause, and defeat screen  
 
 ---
 
 ## 🎮 Controls
 
 | Action | Keys |
-|---------|------|
+|--------|------|
 | Move | WASD |
-| Shoot | Auto-fire |
+| Shoot | Automatic targeting |
 | Pause | ESC |
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-- Unity 2022.3+  
+- Unity 6 6000.0+ (URP 17)  
 - C#  
-- Input System  
-- ScriptableObjects  
-- Unity Profiler  
-- UGUI / UI Toolkit  
+- Unity Input System 1.14  
+- ScriptableObjects for items and waves  
+- Object Pooling for enemies and projectiles  
+- Unity Timeline 
+- TextMeshPro UI
 
 ---
 
 ## 🧠 Architecture Overview
 
-- **GameManager** – handles game states and wave progression  
-- **PlayerController** – player movement and shooting logic  
-- **EnemySpawner** – spawns enemies using Object Pool  
-- **UpgradeSystem** – manages ScriptableObject-based upgrades  
+- **GameManager** – coordinates states, pacing, and reward cadence  
+- **WaveManager** – schedules enemy batches and bosses  
+- **Player_Movement** – directional input, health system, and regeneration  
+- **Player_attack** – auto-aim targeting and weapon spawning  
+- **Weapon** – projectile behaviour, damage, and collisions  
+- **Enemy** – finite-state AI, damage callbacks, and loot drops  
+- **DamageNumberManager** / **HealNumberManager** – floating combat text feedback  
+- **UpgradeCanvas** – draft-and-pick upgrade flow after each wave  
 
 ---
 
 ## 📸 Screenshots
 
-<img width="2559" height="1439" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a598051f-cd18-45b2-a1ca-5dea3f56c7bd" />
-<img width="1915" height="1076" alt="Screenshot_5" src="https://github.com/user-attachments/assets/2ae216a5-2a4b-4c10-9dbc-7c7f090fb217" />
-<img width="2559" height="1439" alt="Screenshot_4" src="https://github.com/user-attachments/assets/4d63e011-53fb-4525-a9c6-99d228b949f4" />
-<img width="2559" height="1439" alt="Screenshot_3" src="https://github.com/user-attachments/assets/8cb8df32-7ecf-4050-b270-3becf4d10811" />
+<img width="2559" height="1439" alt="Arena" src="https://github.com/user-attachments/assets/a598051f-cd18-45b2-a1ca-5dea3f56c7bd" />
+<img width="1915" height="1076" alt="Upgrade Screen" src="https://github.com/user-attachments/assets/2ae216a5-2a4b-4c10-9dbc-7c7f090fb217" />
+<img width="2559" height="1439" alt="Wave Combat" src="https://github.com/user-attachments/assets/4d63e011-53fb-4525-a9c6-99d228b949f4" />
+<img width="2559" height="1439" alt="Ability Showcase" src="https://github.com/user-attachments/assets/8cb8df32-7ecf-4050-b270-3becf4d10811" />
 
 ---
 
